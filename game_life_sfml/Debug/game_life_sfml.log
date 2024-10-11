@@ -1,0 +1,7 @@
+﻿  main.cpp
+C:\Users\elina\source\repos\game_life_sfml\game_life_sfml\main.cpp(118,87): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\elina\source\repos\game_life_sfml\game_life_sfml\main.cpp(118,54): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\elina\source\repos\game_life_sfml\game_life_sfml\main.cpp(122,86): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\elina\source\repos\game_life_sfml\game_life_sfml\main.cpp(122,53): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\elina\source\repos\game_life_sfml\game_life_sfml\main.cpp(131,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  game_life_sfml.vcxproj -> C:\Users\elina\source\repos\game_life_sfml\Debug\game_life_sfml.exe
